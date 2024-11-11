@@ -1,0 +1,8 @@
+fire
+pandas
+numpy
+scikit-learn
+sklearn
+joblib
+seaborn
+matplotlib
